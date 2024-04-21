@@ -35,7 +35,7 @@ To use this code, follow these steps:
 1. Clone this repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Run the Python scripts for each model to observe and compare their performance in forecasting stock price movements.
-
+*Important Note*: Prior to running the code, ensure you have downloaded 2-4 years of stock market data for optimal functionality.
 ---
 
 **Background:**
